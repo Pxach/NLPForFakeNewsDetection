@@ -5,8 +5,8 @@ Date: 10th May 2025
 Institution:Al Akhawayn University
 Team Members:
 Ghita Sbai– GitHub: @Pxach
-Zineb Khachfi – GitHub: @username2
-Yousra Chtouki – GitHub: @username3
+Zineb Khachfi – GitHub: @Nouki2002
+Yousra Chtouki – GitHub: @cyousra
 
 Ownership & Contributions:
 Each team member retains authorship of the components they developed.
@@ -39,4 +39,6 @@ The university’s academic integrity or legal office
 Signatures:
 Each contributor agrees to the terms above:
 Name | Signature | Date
-
+Ghita Sbai| Ghita | 10-5-2025
+Zineb Khachfi| Zineb | 10-5-2025
+Yousra Chtouki| Yousra | 10-5-2025
